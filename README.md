@@ -12,23 +12,11 @@ Esta formación se desarrollará siguiendo la modalidad [E-Learning](https://cog
 ## Contenido
 ### Módulo 1: Estadística univariante
 - [Introducción a conceptos básicos de estadística univariante](https://colab.research.google.com/github/carlosalvarezh/Curso_CEC_EAFIT/blob/main/C01_Estadistica_Univariante.ipynb)
-<p>&nbsp;</p>
 - Descripción gráfica, visual y tabular de los datos
-<p>&nbsp;</p>
-
 - Indicadores de centralidad, dispersión y forma y su interpretación
-<p>&nbsp;</p>
-
 - [Análisis de normalidad](https://colab.research.google.com/github/carlosalvarezh/Curso_CEC_EAFIT/blob/main/C02_Analisis_Normalidad.ipynb) y de otros modelos explicativos de la incertidumbre detrás de los datos (Modelos Probabilísticos)
-<p>&nbsp;</p>
-
-
 - Estimación puntal de indicadores (parámetros) y su margen de error (intervalos de confianza)
-<p>&nbsp;</p>
-
 - Validación estadística de conjeturas empresariales (Pruebas de hipótesis paramétricas)
-<p>&nbsp;</p>
-
 - Validaciones estadísticas de conjeturas empresariales en presencia de menos información (Pruebas de hipótesis no paramétricas)
 
 ### Módulo 2: Modelos de predicción y pronóstico
