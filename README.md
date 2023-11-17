@@ -11,30 +11,19 @@ Esta formación se desarrollará siguiendo la modalidad [E-Learning](https://cog
 
 ## Contenido
 ### Módulo 1: Estadística univariante
-- [Introducción a conceptos básicos de estadística univariante](https://colab.research.google.com/github/carlosalvarezh/Curso_CEC_EAFIT/blob/main/C01_Estadistica_Univariante.ipynb)
-- Descripción gráfica, visual y tabular de los datos
-- Indicadores de centralidad, dispersión y forma y su interpretación
-- [Análisis de normalidad](https://colab.research.google.com/github/carlosalvarezh/Curso_CEC_EAFIT/blob/main/C02_Analisis_Normalidad.ipynb) y de otros modelos explicativos de la incertidumbre detrás de los datos (Modelos Probabilísticos)
-- Estimación puntal de indicadores (parámetros) y su margen de error (intervalos de confianza)
-- Validación estadística de conjeturas empresariales (Pruebas de hipótesis paramétricas)
-- Validaciones estadísticas de conjeturas empresariales en presencia de menos información (Pruebas de hipótesis no paramétricas)
+- [Introducción a conceptos básicos de estadística univariante](https://colab.research.google.com/github/carlosalvarezh/Curso_CEC_EAFIT/blob/main/C01_Estadistica_Univariante.ipynb): Descripción gráfica, visual y tabular de los datos, Indicadores de centralidad, dispersión y forma, y su interpretación.
+<p>&nbsp;</p>
+
+- [Análisis de normalidad](https://colab.research.google.com/github/carlosalvarezh/Curso_CEC_EAFIT/blob/main/C02_Analisis_Normalidad.ipynb) y Modelos Probabilísticos, Estimación puntal de indicadores (parámetros) e intervalos de confianza, Pruebas de hipótesis paramétricas y no paramétricas.
 
 ### Módulo 2: Modelos de predicción y pronóstico
-- Visualización de datos y variables con información compartida (Diagrama de dispersión)
-- Técnicas estadísticas para la medición de información compartida e indicadores de dependencia (Correlaciones)
-- Explicación de una variable en términos de otras (Modelo de regresión lineal)
-- Métodos estadísticos de selección de variables importantes e identificación de información redundante. (validación y significancia)
-- Modelos generales para pronósticos a corto plazo
-- Identificación de datos raros (outliers) y métodos explicativos en presencia de datos raros no identificados (Regresión robusta)
+- [Modelos de predicción y pronóstico](https://colab.research.google.com/github/carlosalvarezh/Curso_CEC_EAFIT/blob/main/C03_Modelos_Prediccion_Pronostico.ipynb): Visualización de datos, Correlaciónes, Modelo de regresión lineal, Métodos estadísticos de selección de variables importantes e identificación de información redundante, Validación y significancia. 
+<p>&nbsp;</p>
+
+- [Series de tiempo](https://colab.research.google.com/github/carlosalvarezh/Curso_CEC_EAFIT/blob/main/C04_TimeSeries_Outliers.ipynb), Identificación de datos raros, Regresión robusta.
 
 ### Módulo 3: Estadística multivariante
-- Visualización de datos multivariantes
-- Indicadores de centralidad, dispersión y forma
-- Similaridad de individuos y registros (Distancia estadística)
-- Técnicas de identificación de registros raros (detección de outliers multivariantes)
-- Reducción de dimensión y construcción de indicadores (Componentes principales)
-- Agrupamiento de registros y segmentación (Clustering)
-- Clasificación supervisada de registros
+- [Estadística multivariante](https://colab.research.google.com/github/carlosalvarezh/Curso_CEC_EAFIT/blob/main/C05_Estadística_multivariante.ipynb): Visualización de datos multivariantes, Indicadores de centralidad, dispersión y forma, Similaridad de individuos y registros (Distancia estadística), Outliers multivariantes, Componentes principales, Clustering, Clasificación supervisada de registros.
 
 ## Sesiones clase a clase
 | Sesión  |                 Módulo                |Horas|
@@ -64,9 +53,6 @@ Como complemento al curso, se han desarrollado una serie de documentos (notebook
 <p>&nbsp;</p>
 
 - [CrashCourse04_Pandas.ipynb](https://colab.research.google.com/github/carlosalvarezh/Curso_CEC_EAFIT/blob/main/CrashCourse04_Pandas.ipynb)
-<p>&nbsp;</p>
-
-- [CrashCourse05_EDA.ipynb](https://colab.research.google.com/github/carlosalvarezh/Curso_CEC_EAFIT/blob/main/CrashCourse05_EDA.ipynb)
 <p>&nbsp;</p>
 
 - [CrashCourse06_NumerosAleatorios.ipynb](https://colab.research.google.com/github/carlosalvarezh/Curso_CEC_EAFIT/blob/main/CrashCourse06_NumerosAleatorios.ipynb)
