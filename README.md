@@ -1,5 +1,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosalvarezh/Analitica_Datos/)
 
+## Navegación en el curso
+Si ya tiene conocimientos en el ecosistema Python (lenguaje, Numpy, Pandas, Matplotlib, etc...), puede ir directamente a los contenidos específicos en estadística, empezando por el de [Estadística Univariante](https://colab.research.google.com/github/carlosalvarezh/Curso_CEC_EAFIT/blob/main/C01_Estadistica_Univariante.ipynb). Si es su primer contacto con el ecosistema Python, o nunca ha tenido la oportunidad de aprender un lenguaje de programación, se recomienda empezar por el [CrashCourse01_Python.ipynb](https://colab.research.google.com/github/carlosalvarezh/Curso_CEC_EAFIT/blob/main/CrashCourse01_Python.ipynb) y luego retomar los contenidos de estadística. 
+
+
 ## Objetivo de formación
 Fortalecer e implementar el razonamiento estadístico en la gestión y análisis de datos a través del uso de Python.
 
